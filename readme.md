@@ -1,6 +1,6 @@
 # Crashme--
 
-Crashme-- is a simplified fork of George Carrette's [crashme](people.delphiforums.com/gjc/crashme.html) program, which executes random bytecode as a test of system stability. As its name suggests, crashme-- is less featureful than crashme: it removes suppport for VMS, Windows, and HP_UX; it doesn't have its own prng routines; it won't log in as much detail; and it supports fewer configurable options. You weren't using those features anyway.
+Crashme-- is a simplified fork of George Carrette's [crashme](people.delphiforums.com/gjc/crashme.html) program, which executes random bytecode as a test of system stability. As its name suggests, crashme-- is less featureful than crashme: it removes suppport for VMS, Windows, and HP_UX; it doesn't have its own prng routines; it won't log in as much detail; and it supports fewer configurable options.
 
 This is a work in progresss.
 
